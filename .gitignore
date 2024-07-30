@@ -1,0 +1,9 @@
+# Ignorar todos los archivos .log
+*.log
+
+# Ignorar el directorio node_modules
+node_modules/
+
+# Ignorar otros archivos o directorios específicos
+/path/to/excluded/file
+/path/to/excluded/directory/
